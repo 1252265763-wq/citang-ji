@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://citang-database.netlify.app/'
 locale = 'zh-cn'
 title = '全国祠堂信息资源库'
 theme = 'PaperMod'
