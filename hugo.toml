@@ -1,4 +1,23 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
+locale = 'zh-cn'
 title = '全国祠堂信息资源库'
-theme = "basic"
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowBreadCrumbs = true
+
+  [params.homeInfoParams]
+    Title = "全国祠堂信息资源库"
+    Content = "记录、保存和分享中国祠堂的历史、建筑与文化"
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "summary", "content"]
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

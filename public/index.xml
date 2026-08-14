@@ -1,24 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>全国祠堂信息资源库</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on 全国祠堂信息资源库</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>张氏大宗祠</title>
-				<link>http://localhost:1313/citang/zhangshi-dazongci/</link>
-				<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/citang/zhangshi-dazongci/</guid>
-				<description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt;张氏大宗祠（又名风度堂），清乾隆十四年（1750年）肇建，位于原饶平古县城三饶东门，座南向北。由饶邑张氏七大族系合力兴建，供奉唐朝岭南名相张九龄为太祖。2015年重光庆典，各地裔孙捐资约500万元，集张氏议事、祭祖、文化于一体，促进地方经济和社会和谐发展作出重要贡献。&lt;/p&gt;&#xA;&lt;h2 id=&#34;建筑结构&#34;&gt;建筑结构&lt;/h2&gt;&#xA;&lt;p&gt;宗祠南北长32.5米，东西宽26.5米，中脊高约8米，前后二进，前低后高。二厅六房一天井二过水，整体结构古朴、端庄、大方。&lt;/p&gt;&#xA;&lt;h2 id=&#34;大门&#34;&gt;大门&lt;/h2&gt;&#xA;&lt;p&gt;大门为牌楼式结构，开中、东、西三门，全部用石柱石板构筑而成。中门门前有直径近米的石鼓一对，上方石匾额镌&amp;quot;张氏大宗祠&amp;quot;五个大字，苍劲有力。东侧旁门上方石匾额镌&amp;quot;忍图百字&amp;quot;，引自开封张公艺献唐高宗一百个&amp;quot;忍&amp;quot;字，后称&amp;quot;百忍家声&amp;quot;的由来。西侧旁门上方石匾额镌&amp;quot;鉴照千秋&amp;quot;，出自唐朝贤相张九龄公呈唐玄宗的&amp;quot;千秋金鉴录&amp;quot;奏本。其余部分均为对称石雕图案。&lt;/p&gt;&#xA;&lt;h2 id=&#34;前厅与天井&#34;&gt;前厅与天井&lt;/h2&gt;&#xA;&lt;p&gt;祠内前厅由三跨间组成，宽阔开朗。东西两侧各有库房二间，共四间房。中央为露天大天井，面积达132平方米，天井两侧设有迴廊式通道。&lt;/p&gt;&#xA;&lt;h2 id=&#34;后堂&#34;&gt;后堂&lt;/h2&gt;&#xA;&lt;p&gt;由天井登五级石阶上后堂。后堂也为三跨间组成，东西侧各有库房一间。后堂正中高悬&amp;quot;风度堂&amp;quot;黑地金书匾额，甚为壮观。&lt;/p&gt;&#xA;&lt;h2 id=&#34;建筑特色&#34;&gt;建筑特色&lt;/h2&gt;&#xA;&lt;p&gt;祠内厅堂屋顶全以石柱为支撑，重梁顶托式建筑结构。全祠共有支柱60根，其中石柱52根，柱形有方、圆、八角。过水三跨间有木柱8根，雕梁画栋，宽敞明亮。&lt;/p&gt;&#xA;&lt;h2 id=&#34;门前&#34;&gt;门前&lt;/h2&gt;&#xA;&lt;p&gt;门前广埕上下二级，面积375平方米。埕前原有鱼池一口，面积170平方米。&lt;/p&gt;&#xA;&lt;h2 id=&#34;保护现状&#34;&gt;保护现状&lt;/h2&gt;&#xA;&lt;p&gt;现为不可移动文保单位。&lt;/p&gt;</description>
-			</item>
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>全国祠堂信息资源库</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 全国祠堂信息资源库</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>张氏大宗祠</title>
+      <link>http://localhost:1313/citang/zhangshi-dazongci/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/citang/zhangshi-dazongci/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;张氏大宗祠（又名风度堂），清乾隆十四年（1750年）肇建，位于原饶平古县城三饶东门，座南向北。由饶邑张氏七大族系合力兴建，供奉唐朝岭南名相张九龄为太祖。2015年重光庆典，各地裔孙捐资约500万元，集张氏议事、祭祖、文化于一体，促进地方经济和社会和谐发展作出重要贡献。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;张氏大祠堂&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/%E5%BC%A0%E6%B0%8F%E5%A4%A7%E7%A5%A0%E5%A0%82%E5%85%A8%E6%99%AF.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;建筑结构&#34;&gt;建筑结构&lt;/h2&gt;
+&lt;p&gt;宗祠南北长32.5米，东西宽26.5米，中脊高约8米，前后二进，前低后高。二厅六房一天井二过水，整体结构古朴、端庄、大方。&lt;/p&gt;
+&lt;h2 id=&#34;大门&#34;&gt;大门&lt;/h2&gt;
+&lt;p&gt;大门为牌楼式结构，开中、东、西三门，全部用石柱石板构筑而成。中门门前有直径近米的石鼓一对，上方石匾额镌&amp;quot;张氏大宗祠&amp;quot;五个大字，苍劲有力。东侧旁门上方石匾额镌&amp;quot;忍图百字&amp;quot;，引自开封张公艺献唐高宗一百个&amp;quot;忍&amp;quot;字，后称&amp;quot;百忍家声&amp;quot;的由来。西侧旁门上方石匾额镌&amp;quot;鉴照千秋&amp;quot;，出自唐朝贤相张九龄公呈唐玄宗的&amp;quot;千秋金鉴录&amp;quot;奏本。其余部分均为对称石雕图案。&lt;/p&gt;
+&lt;h2 id=&#34;前厅与天井&#34;&gt;前厅与天井&lt;/h2&gt;
+&lt;p&gt;祠内前厅由三跨间组成，宽阔开朗。东西两侧各有库房二间，共四间房。中央为露天大天井，面积达132平方米，天井两侧设有迴廊式通道。&lt;/p&gt;
+&lt;h2 id=&#34;后堂&#34;&gt;后堂&lt;/h2&gt;
+&lt;p&gt;由天井登五级石阶上后堂。后堂也为三跨间组成，东西侧各有库房一间。后堂正中高悬&amp;quot;风度堂&amp;quot;黑地金书匾额，甚为壮观。&lt;/p&gt;
+&lt;h2 id=&#34;建筑特色&#34;&gt;建筑特色&lt;/h2&gt;
+&lt;p&gt;祠内厅堂屋顶全以石柱为支撑，重梁顶托式建筑结构。全祠共有支柱60根，其中石柱52根，柱形有方、圆、八角。过水三跨间有木柱8根，雕梁画栋，宽敞明亮。&lt;/p&gt;
+&lt;h2 id=&#34;门前&#34;&gt;门前&lt;/h2&gt;
+&lt;p&gt;门前广埕上下二级，面积375平方米。埕前原有鱼池一口，面积170平方米。&lt;/p&gt;
+&lt;h2 id=&#34;保护现状&#34;&gt;保护现状&lt;/h2&gt;
+&lt;p&gt;现为不可移动文保单位。&lt;/p&gt;
+&lt;h2 id=&#34;采访记录&#34;&gt;采访记录&lt;/h2&gt;
+&lt;h3 id=&#34;采访一&#34;&gt;采访一&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;时间&lt;/strong&gt;：2026年2月24日&lt;br&gt;
+&lt;strong&gt;地点&lt;/strong&gt;：广东省潮州市饶平县三饶镇马岗村新环里（受访者家中）&lt;br&gt;
+&lt;strong&gt;采访者&lt;/strong&gt;：黄誉婷&lt;br&gt;
+&lt;strong&gt;受访者&lt;/strong&gt;：张河银（男，1949年生人，平日居住在村里）&lt;/p&gt;
+&lt;h4 id=&#34;1-修建历史了解程度&#34;&gt;1. 修建历史了解程度&lt;/h4&gt;
+&lt;p&gt;邻里之间喝茶聊天的时候偶尔会聊到，小时候也在永思堂上过学堂。永思堂在改革开放后被一点一点翻新，应该主要是由村委会来做这个工作。&lt;/p&gt;
+&lt;h4 id=&#34;2-建筑原貌与内部规矩&#34;&gt;2. 建筑原貌与内部规矩&lt;/h4&gt;
+&lt;p&gt;原来风度堂门口没有现在的那对石狮子，整体看上去用石料比较多，当时旁边的居民楼也挨得比较近，紧贴在左门前面，看上去不太美观。过去风度堂算不上&amp;quot;宗祠&amp;quot;，也就没有人去管。永思堂原本只有它一个建筑，后来（2004年）马岗小学挨着祠堂建起来，之后就由学校管理。&lt;/p&gt;
+&lt;h4 id=&#34;3-历史功能与难忘记忆&#34;&gt;3. 历史功能与难忘记忆&lt;/h4&gt;
+&lt;p&gt;风度堂在建国后有被用作仓库，似乎还办过一段时间幼儿园。重建之前并没有办过宗族内部的活动。永思堂之前主要是用来祭祖的，建国后就没有被作为祠堂使用了。马岗村里的其它私人祠堂也是，之后很多祠堂渐渐都不办了。永思堂被改造成学校，现在只有村里有奖学金颁发活动（由马岗公益促进会主持）才去祭拜。因为永思堂实际上不由宗族管理，所以平时几乎不办宗族相关活动，除了外乡的宗亲回来认祖会组织起一些参观和祭拜活动。&lt;/p&gt;
+&lt;h4 id=&#34;4-变迁与重修&#34;&gt;4. 变迁与重修&lt;/h4&gt;
+&lt;p&gt;风度堂2013年开始重修，贴在左门前面的小屋子被拆了，空出祠堂自己的院子，房檐有了很多装饰，也涂了新漆。永思堂的柱子和木门都已经翻新成红木，也铺了新地板。重修后部分宗亲回归，后厅有了很多新的牌位，还新装了窗帘。&lt;/p&gt;
+&lt;h4 id=&#34;5-目前的活动&#34;&gt;5. 目前的活动&lt;/h4&gt;
+&lt;p&gt;风度堂一般在冬至祭祖和过节才会举办活动，祭祖会有舞龙表演，过传统节日时偶尔会在宗祠里办联欢晚会。但因为平时住在村里，除了冬至和春节之类的重大节日外，不会专程到县里的宗祠去参加活动。永思堂每隔两三年过半年（农历六月初一）的时候，舞龙队伍巡游也会在宗祠里面跑一圈。&lt;/p&gt;
+&lt;h4 id=&#34;6-当前功能与价值&#34;&gt;6. 当前功能与价值&lt;/h4&gt;
+&lt;p&gt;风度堂可以祭祖、聚会。永思堂的部分区域还在用作教室，而且可以作为颁发奖学金的仪式性场所。重建后的宗祠外观上比较大气，看的人变多了，去的人也变多了。&lt;/p&gt;
+&lt;h4 id=&#34;7-管理模式与条规&#34;&gt;7. 管理模式与条规&lt;/h4&gt;
+&lt;p&gt;不太了解。知道风度堂由张氏宗族内部来管理，规定是由宗亲讨论约定俗成的。永思堂由马岗小学来管理，学校未开学时永思堂也闭门。&lt;/p&gt;
+&lt;h4 id=&#34;8-个人情感与意义&#34;&gt;8. 个人情感与意义&lt;/h4&gt;
+&lt;p&gt;风度堂相当于张氏宗族的一个象征。永思堂在我出生的时候它就一直存在，而且距离我更近，对我来说更有亲切感，希望它能更长久一点。&lt;/p&gt;
+&lt;h4 id=&#34;9-日常维护与参与群体&#34;&gt;9. 日常维护与参与群体&lt;/h4&gt;
+&lt;p&gt;永思堂偶尔的活动（奖学金颁发、宗亲回归等）主要是中老年人去办（村里大部分都是中老年人），不过过节有表演的时候也会有小朋友去看。&lt;/p&gt;
+&lt;h4 id=&#34;10-对年轻人关注度的看法&#34;&gt;10. 对年轻人关注度的看法&lt;/h4&gt;
+&lt;p&gt;年轻人大多住在外面，而且关于家族的资料很少，想追溯三代以上很难。&lt;/p&gt;
+&lt;h4 id=&#34;11-发展建议&#34;&gt;11. 发展建议&lt;/h4&gt;
+&lt;p&gt;让宗祠成为一个亲切包容的公共场合，有仪式可以在这里办，平日也可以在里面或外面有更多娱乐活动。&lt;/p&gt;
+&lt;h4 id=&#34;12-存在的价值&#34;&gt;12. 存在的价值&lt;/h4&gt;
+&lt;p&gt;一是让我们不忘祖辈，二是作为重要的仪式场所，三是让乡镇外貌更美观。&lt;/p&gt;
+&lt;h4 id=&#34;13-对传承的期望&#34;&gt;13. 对传承的期望&lt;/h4&gt;
+&lt;p&gt;应该还可以传得更久一些，肯定希望年轻人能多回来看看，也不一定要帮助乡村建设、宗祠建设或者主持活动，他们回来也让村里更有活力。&lt;/p&gt;
+&lt;h4 id=&#34;14-个人意愿&#34;&gt;14. 个人意愿&lt;/h4&gt;
+&lt;p&gt;如果我能做到会尽量做到，但主要还是捐钱。希望能经常开门，老人能来喝茶、聊天、下棋。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
