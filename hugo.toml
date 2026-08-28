@@ -1,6 +1,6 @@
 baseURL = 'https://citang-database.netlify.app/'
 locale = 'zh-cn'
-title = '全国祠堂信息资源库'
+title = '祠堂信息资源库'
 theme = 'PaperMod'
 
 [params]
@@ -9,7 +9,7 @@ theme = 'PaperMod'
   ShowBreadCrumbs = true
 
   [params.homeInfoParams]
-    Title = "全国祠堂信息资源库"
+    Title = "祠堂信息资源库"
     Content = "记录、保存和分享中国祠堂的历史、建筑与文化"
   [params.fuseOpts]
     isCaseSensitive = false
