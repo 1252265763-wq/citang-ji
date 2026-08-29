@@ -7,7 +7,7 @@ era: "清乾隆十四年（1750年）"
 protection: "不可移动文保单位"
 surname: "张"
 cover:
-  image: "/images/张氏大祠堂全景.png"
+  image: "/images/zhangshi-full.png"
   alt: "张氏大宗祠全景"
   hidden: false
 ---
