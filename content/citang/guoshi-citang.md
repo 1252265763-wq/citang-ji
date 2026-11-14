@@ -7,7 +7,7 @@ era: "2021年"
 protection: "未定级"
 surname: "郭"
 cover:
-  image: "/images/guoshi-v2.png"
+  image: "/images/guoshi-full.png"
   alt: "郭氏祠堂（光厚堂）"
   hidden: false
 ---
